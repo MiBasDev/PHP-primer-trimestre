@@ -1,0 +1,44 @@
+[{
+        "id": "01",
+        "nombre": "Shrek",
+        "descripcion": "Un ogro maloliente",
+        "nota": "8",
+        "url": "www.shrek.com",
+        "actores": [{
+                "nombreActor": "Miguel",
+                "edad": "26"
+            }
+            , {
+                "nombreActor": "Ainhoa",
+                "edad": "27"
+            }]
+    }, {
+        "id": "02",
+        "nombre": "El Padrino",
+        "descripcion": "Un macarrilla con dinero",
+        "nota": "9",
+        "url": "www.elpadrino.com",
+        "actores": [{
+                "nombreActor": "Jorge",
+                "edad": "19"
+            }
+            , {
+                "nombreActor": "Jacobo",
+                "edad": "27"
+            }]
+    }, {
+        "id": "03",
+        "nombre": "El Rey León",
+        "descripcion": "Un león travieso",
+        "nota": "10",
+        "url": "www.elreyleon.com",
+        "actores": [{
+                "nombreActor": "Raúl",
+                "edad": "19"
+            }
+            , {
+                "nombreActor": "Alejandro",
+                "edad": "19"
+            }]
+    }]
+

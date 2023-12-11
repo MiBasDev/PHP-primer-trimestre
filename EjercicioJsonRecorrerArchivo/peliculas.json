@@ -1,0 +1,53 @@
+[{
+        "id": "1",
+        "nombre": "Avatar",
+        "año": "2009",
+        "director": "James Cameron",
+        "nota": "9",
+        "actores": [{
+                "nombreActor": "Sam Worthington",
+                "fechaNacimiento": "2 de Agosto de 1976"
+            }
+            , {
+                "nombreActor": "Zoe Saldaña",
+                "fechaNacimiento": "19 de Junio de 1978"
+            }, {
+                "nombreActor": "Stephen Lang",
+                "fechaNacimiento": "11 de Julio de 1952"
+            }]
+    }, {
+        "id": "2",
+        "nombre": "Oppenheimer",
+        "año": "2023",
+        "director": "Christopher Nolan",
+        "nota": "9.5",
+        "actores": [{
+                "nombreActor": "Cillian Murphy",
+                "fechaNacimiento": "25 de Mayo de 1976"
+            }
+            , {
+                "nombreActor": "Emily Blunt",
+                "fechaNacimiento": "23 de Febrero de 1983"
+            }, {
+                "nombreActor": "Matt Damon",
+                "fechaNacimiento": "8 de Octubre de 1970"
+            }]
+    }, {
+        "id": "3",
+        "nombre": "El código Da Vinci",
+        "año": "2006",
+        "director": "Ron Howard",
+        "nota": "8",
+        "actores": [{
+                "nombreActor": "Tom Hanks",
+                "fechaNacimiento": "9 de Julio de 1956"
+            }
+            , {
+                "nombreActor": "Audrey Tautou",
+                "fechaNacimiento": "9 de Agosto de 1976"
+            }, {
+                "nombreActor": "Ian McKellen",
+                "fechaNacimiento": "25 de Mayo de 1939"
+            }]
+    }]
+

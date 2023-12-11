@@ -1,0 +1,482 @@
+[
+    {
+        "color": "blue",
+        "valor": 0
+    },
+    {
+        "color": "blue",
+        "valor": 1
+    },
+    {
+        "color": "blue",
+        "valor": 2
+    },
+    {
+        "color": "blue",
+        "valor": 3
+    },
+    {
+        "color": "blue",
+        "valor": 4
+    },
+    {
+        "color": "blue",
+        "valor": 5
+    },
+    {
+        "color": "blue",
+        "valor": 6
+    },
+    {
+        "color": "blue",
+        "valor": 7
+    },
+    {
+        "color": "blue",
+        "valor": 8
+    },
+    {
+        "color": "blue",
+        "valor": 9
+    },
+    {
+        "color": "blue",
+        "valor": 0
+    },
+    {
+        "color": "blue",
+        "valor": 1
+    },
+    {
+        "color": "blue",
+        "valor": 2
+    },
+    {
+        "color": "blue",
+        "valor": 3
+    },
+    {
+        "color": "blue",
+        "valor": 4
+    },
+    {
+        "color": "blue",
+        "valor": 5
+    },
+    {
+        "color": "blue",
+        "valor": 6
+    },
+    {
+        "color": "blue",
+        "valor": 7
+    },
+    {
+        "color": "blue",
+        "valor": 8
+    },
+    {
+        "color": "blue",
+        "valor": 9
+    },
+    {
+        "color": "blue",
+        "valor": "+2"
+    },
+    {
+        "color": "blue",
+        "valor": "+2"
+    },
+    {
+        "color": "blue",
+        "valor": "Ø"
+    },
+    {
+        "color": "blue",
+        "valor": "Ø"
+    },
+    {
+        "color": "blue",
+        "valor": "«»"
+    },
+    {
+        "color": "blue",
+        "valor": "«»"
+    },
+    {
+        "color": "yellow",
+        "valor": 0
+    },
+    {
+        "color": "yellow",
+        "valor": 1
+    },
+    {
+        "color": "yellow",
+        "valor": 2
+    },
+    {
+        "color": "yellow",
+        "valor": 3
+    },
+    {
+        "color": "yellow",
+        "valor": 4
+    },
+    {
+        "color": "yellow",
+        "valor": 5
+    },
+    {
+        "color": "yellow",
+        "valor": 6
+    },
+    {
+        "color": "yellow",
+        "valor": 7
+    },
+    {
+        "color": "yellow",
+        "valor": 8
+    },
+    {
+        "color": "yellow",
+        "valor": 9
+    },
+    {
+        "color": "yellow",
+        "valor": 0
+    },
+    {
+        "color": "yellow",
+        "valor": 1
+    },
+    {
+        "color": "yellow",
+        "valor": 2
+    },
+    {
+        "color": "yellow",
+        "valor": 3
+    },
+    {
+        "color": "yellow",
+        "valor": 4
+    },
+    {
+        "color": "yellow",
+        "valor": 5
+    },
+    {
+        "color": "yellow",
+        "valor": 6
+    },
+    {
+        "color": "yellow",
+        "valor": 7
+    },
+    {
+        "color": "yellow",
+        "valor": 8
+    },
+    {
+        "color": "yellow",
+        "valor": 9
+    },
+    {
+        "color": "yellow",
+        "valor": "+2"
+    },
+    {
+        "color": "yellow",
+        "valor": "+2"
+    },
+    {
+        "color": "yellow",
+        "valor": "Ø"
+    },
+    {
+        "color": "yellow",
+        "valor": "Ø"
+    },
+    {
+        "color": "yellow",
+        "valor": "«»"
+    },
+    {
+        "color": "yellow",
+        "valor": "«»"
+    },
+    {
+        "color": "red",
+        "valor": 0
+    },
+    {
+        "color": "red",
+        "valor": 1
+    },
+    {
+        "color": "red",
+        "valor": 2
+    },
+    {
+        "color": "red",
+        "valor": 3
+    },
+    {
+        "color": "red",
+        "valor": 4
+    },
+    {
+        "color": "red",
+        "valor": 5
+    },
+    {
+        "color": "red",
+        "valor": 6
+    },
+    {
+        "color": "red",
+        "valor": 7
+    },
+    {
+        "color": "red",
+        "valor": 8
+    },
+    {
+        "color": "red",
+        "valor": 9
+    },
+    {
+        "color": "red",
+        "valor": 0
+    },
+    {
+        "color": "red",
+        "valor": 1
+    },
+    {
+        "color": "red",
+        "valor": 2
+    },
+    {
+        "color": "red",
+        "valor": 3
+    },
+    {
+        "color": "red",
+        "valor": 4
+    },
+    {
+        "color": "red",
+        "valor": 5
+    },
+    {
+        "color": "red",
+        "valor": 6
+    },
+    {
+        "color": "red",
+        "valor": 7
+    },
+    {
+        "color": "red",
+        "valor": 8
+    },
+    {
+        "color": "red",
+        "valor": 9
+    },
+    {
+        "color": "red",
+        "valor": "+2"
+    },
+    {
+        "color": "red",
+        "valor": "+2"
+    },
+    {
+        "color": "red",
+        "valor": "Ø"
+    },
+    {
+        "color": "red",
+        "valor": "Ø"
+    },
+    {
+        "color": "red",
+        "valor": "«»"
+    },
+    {
+        "color": "red",
+        "valor": "«»"
+    },
+    {
+        "color": "green",
+        "valor": 0
+    },
+    {
+        "color": "green",
+        "valor": 1
+    },
+    {
+        "color": "green",
+        "valor": 2
+    },
+    {
+        "color": "green",
+        "valor": 3
+    },
+    {
+        "color": "green",
+        "valor": 4
+    },
+    {
+        "color": "green",
+        "valor": 5
+    },
+    {
+        "color": "green",
+        "valor": 6
+    },
+    {
+        "color": "green",
+        "valor": 7
+    },
+    {
+        "color": "green",
+        "valor": 8
+    },
+    {
+        "color": "green",
+        "valor": 9
+    },
+    {
+        "color": "green",
+        "valor": 0
+    },
+    {
+        "color": "green",
+        "valor": 1
+    },
+    {
+        "color": "green",
+        "valor": 2
+    },
+    {
+        "color": "green",
+        "valor": 3
+    },
+    {
+        "color": "green",
+        "valor": 4
+    },
+    {
+        "color": "green",
+        "valor": 5
+    },
+    {
+        "color": "green",
+        "valor": 6
+    },
+    {
+        "color": "green",
+        "valor": 7
+    },
+    {
+        "color": "green",
+        "valor": 8
+    },
+    {
+        "color": "green",
+        "valor": 9
+    },
+    {
+        "color": "green",
+        "valor": "+2"
+    },
+    {
+        "color": "green",
+        "valor": "+2"
+    },
+    {
+        "color": "green",
+        "valor": "Ø"
+    },
+    {
+        "color": "green",
+        "valor": "Ø"
+    },
+    {
+        "color": "green",
+        "valor": "«»"
+    },
+    {
+        "color": "green",
+        "valor": "«»"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "+4"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    },
+    {
+        "color": "black",
+        "valor": "©"
+    }
+]
